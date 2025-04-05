@@ -22,7 +22,7 @@ int main ()
 
     //testando texto: ex4
     const char* nome;
-    nome = "Caio";
+    nome = "Caio R Penha";
     printf("Meu nome é %s.\n", nome);
 
     //ex5: imprimindo multiplos valores
