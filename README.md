@@ -1,2 +1,1 @@
-# introducao
-c++
+Ambiente C++ configurado com sucesso!
