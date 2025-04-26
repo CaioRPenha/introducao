@@ -3,7 +3,7 @@ int main()
 {
     
     int pos;
-    scanf("%d",&pos);  
+    scanf("%d",&pos); 
     if (pos < 6)
         {
             printf("classificado");
